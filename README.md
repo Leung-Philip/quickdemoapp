@@ -1,2 +1,1 @@
-# quickdemoapp
-This is a quick example
+# Instructor Demo
